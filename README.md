@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+Acme Dashboard in Dark Mode:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+![Acme_Dark_Dashboard](https://user-images.githubusercontent.com/53406891/212579563-4e363d03-b3b2-4b60-9288-6f1a130835f4.png)
 
-In the project directory, you can run:
 
-### `npm start`
+Acme Dashboard in Light Mode:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Acme_Light_Dashboard](https://user-images.githubusercontent.com/53406891/212579606-e9dcffb3-fa8a-4a56-94c2-edfdd195c68e.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Acme Invoices:
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Acme_Invoices](https://user-images.githubusercontent.com/53406891/212579648-aeee2766-4a7d-4a76-8073-8a4b63c87269.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Acme User Profile creation can be done:
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Acme_Profile](https://user-images.githubusercontent.com/53406891/212579673-b81b5556-e275-4002-8f17-82f1f12552c9.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Acme Calendar:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+![Acme_Calendar](https://user-images.githubusercontent.com/53406891/212579693-566b859f-02d3-4851-861f-7724ad88080d.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Acme users fetched through dummyjson/users: 
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Acme_Api_Users](https://user-images.githubusercontent.com/53406891/212579799-48609d05-da82-484d-9e58-ed754d64b648.png)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Acme users fetched through dummyjson/comments: 
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![Acme_Api_Comments](https://user-images.githubusercontent.com/53406891/212579847-7980d166-f1d2-45c5-86f6-039d33c528a2.png)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+CHARTS:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Acme BarChart:
 
-### `npm run build` fails to minify
+![Acme_BarChart](https://user-images.githubusercontent.com/53406891/212579886-691aa6ec-0197-4634-93b9-775f9b9e3420.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Acme LineChart:
+
+![Acme_Line](https://user-images.githubusercontent.com/53406891/212579904-677a220b-02a5-4183-8074-d8fb351e3340.png)
+
+
+Acme PieChart:
+
+![Acme_Pie](https://user-images.githubusercontent.com/53406891/212579961-5859ae21-948c-4ba6-9339-9cd80c2cf4bf.png)
+
+
+Acme Geography:
+
+![Acme_Geography](https://user-images.githubusercontent.com/53406891/212579983-34f94d78-f9b6-4a97-a656-e22a39050b7d.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
