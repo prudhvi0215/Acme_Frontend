@@ -75,8 +75,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="12,361"
-            subtitle="Emails Sent"
+            title="$12,426"
+            subtitle="Today's Sale"
             progress="0.75"
             increase="+14%"
             icon={
@@ -102,8 +102,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="431,225"
-            subtitle="Sales Obtained"
+            title="$2,38,485"
+            subtitle="Total Sales"
             progress="0.50"
             increase="+21%"
             icon={
@@ -129,8 +129,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="32,441"
-            subtitle="New Clients"
+            title="84,382"
+            subtitle="Total Orders"
             progress="0.30"
             increase="+5%"
             icon={
@@ -156,8 +156,8 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="1,325,134"
-            subtitle="Traffic Received"
+            title="33,493"
+            subtitle="Total Customers"
             progress="0.80"
             increase="+43%"
             icon={
