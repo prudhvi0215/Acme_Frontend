@@ -1,19 +1,20 @@
 Acme Dashboard in Dark Mode:
 
 
-![Acme_Dark_Dashboard](https://user-images.githubusercontent.com/53406891/212579563-4e363d03-b3b2-4b60-9288-6f1a130835f4.png)
+![acme_dg_1](https://user-images.githubusercontent.com/53406891/213921643-7b30072d-68a7-4d1b-8d90-4b8aca46fd35.png)
 
 
 Acme Dashboard in Light Mode:
 
 
-![Acme_Light_Dashboard](https://user-images.githubusercontent.com/53406891/212579606-e9dcffb3-fa8a-4a56-94c2-edfdd195c68e.png)
+![acme_lg_1](https://user-images.githubusercontent.com/53406891/213921642-68040c00-b3f9-4838-bcb4-bf10fbe3695e.png)
 
 
 Acme Invoices:
 
 
 ![Acme_Invoices](https://user-images.githubusercontent.com/53406891/212579648-aeee2766-4a7d-4a76-8073-8a4b63c87269.png)
+
 
 
 Acme User Profile creation can be done:
